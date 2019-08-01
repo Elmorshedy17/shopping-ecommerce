@@ -1,4 +1,4 @@
-# yarab
+# Shopping Ecommerce App
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+---------------
+
+a Shopping ecommerce app with user authentication , google sign in and firebase realtime database , cloud store ,image picker ,gallary ,use camera ---> this app will be connected to other admin application (can add data and products throw it ) ==> Shopping ecommerce link :->   http://www.mediafire.com/file/doaawgztie7qwqg/yarab.apk/file  .   admin ecommerce Github :- https://github.com/Elmorshedy17/Ecommerce-Admin , admin link :- http://www.mediafire.com/file/tyogsz9jvpqv0pv/ecommerc-admin.apk/file
