@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ---------------
 
-a Shopping ecommerce app with user authentication , google sign in and firebase realtime database , cloud store ,image picker ,gallary ,use camera ---> this app will be connected to other admin application (can add data and products throw it ) ==> Shopping ecommerce link :->   http://www.mediafire.com/file/doaawgztie7qwqg/yarab.apk/file  .   admin ecommerce Github :- https://github.com/Elmorshedy17/Ecommerce-Admin , admin link :- http://www.mediafire.com/file/tyogsz9jvpqv0pv/ecommerc-admin.apk/file
+a Shopping ecommerce app with user authentication , google sign in and firebase realtime database , cloud store ,image picker ,gallary ,use camera ...
+---> this app will be connected to other admin application (can add data and products throw it )
+==> Shopping ecommerce link :->   http://www.mediafire.com/file/doaawgztie7qwqg/yarab.apk/file 
+admin ecommerce Github :- https://github.com/Elmorshedy17/Ecommerce-Admin ,
+admin link :- http://www.mediafire.com/file/tyogsz9jvpqv0pv/ecommerc-admin.apk/file
