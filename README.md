@@ -31,9 +31,9 @@ admin link :- http://www.mediafire.com/file/tyogsz9jvpqv0pv/ecommerc-admin.apk/f
 
 some screenshots :
 
-![shopping1](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping1.png)
-![shopping2](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping2.png)
+![shopping1](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shooping/shooping1.png)
+![shopping2](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shooping/shooping2.png)
 ![shopping3](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping3.png)
-![shopping4](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping4.png)
-![shopping5](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping5.png)
+![shopping4](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shooping/shooping4.png)
+![shopping5](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shooping/shooping5.png)
 ![shopping6](https://github.com/Elmorshedy17/shopping-ecommerce/blob/master/shopping/shooping6.png)
